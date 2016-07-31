@@ -1,5 +1,5 @@
 This is a simple piece of malware that is configured to call back to an ip address to check for a task.
-Its primary task is to upload a dll, write it to the hdd, and execute it.
+Its primary task is to upload exe, write it to the hdd, and execute it.
 
 Never got around to iplementing additional functionailty.
 It also has a lot of spaghetti code!! :-P
